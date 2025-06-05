@@ -1,3 +1,7 @@
 start from local repo
 Edited from git hub repo
+<<<<<<< HEAD
 pull from github
+=======
+push into develop branch
+>>>>>>> develop
